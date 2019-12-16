@@ -1,2 +1,2 @@
 # Karean-web
-Karean website
+Karean web application
