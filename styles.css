@@ -1,0 +1,16 @@
+/* Portfolio styles */
+
+.content-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2%;
+} 
+
+@media screen and (max-width: 400px){
+    .content-wrapper{
+        display: flex;
+    flex-direction: column;
+    }
+}
+
